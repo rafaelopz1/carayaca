@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color:rgb(16, 3, 87);
+=======
+    color:rgb(136, 1, 24);
+>>>>>>> 9797803 (Modifique la cabecera y el color del texto)
     text-align: center;
     font-family: 'Verdana';
     font-size: 22px;
