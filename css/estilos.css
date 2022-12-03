@@ -1,16 +1,14 @@
 body
 {
-<<<<<<< HEAD
-    color:rgb(16, 3, 87);
-=======
-    color:rgb(136, 1, 24);
->>>>>>> 9797803 (Modifique la cabecera y el color del texto)
+    background: #1e1f24;
+    color: #333;
     text-align: center;
     font-family: 'Verdana';
-    font-size: 22px;
+    font-size: 18px;
     margin: 0;
     padding: 0;
 }
+
 #cabecera
 {
     background: #33A;
@@ -19,6 +17,12 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo
+{
+    width: 22px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -39,4 +43,9 @@ body
 #container h1
 {
 	font-size: 26px;
+}
+#post
+{
+    background: white;
+    padding: 1em;
 }
