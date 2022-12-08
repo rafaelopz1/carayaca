@@ -1,4 +1,4 @@
-## :tw-1f31f:WAKANDA FOREVER:tw-1f31f:
+## WAKANDA FOREVER :sheep:
 
 Carayaca, conocido oficialmente como el Reino de Wakanda, es una pequeña nación en el norte de La Guaira. Durante siglos han permanecido aislados y ahora se les considera la nación más avanzada tecnológicamente del planeta. El almendrón es la capital y arbol más grande:tw-1f332:.
 
