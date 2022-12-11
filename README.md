@@ -9,3 +9,5 @@ Carayaca es una potencia militar avanzada; el Ejército Caracayense son ​​la
 ### Política y Relaciones Internacionales
 
 El gobierno de Carayaca se basa en una sociedad pseudo-tribal. El jefe de estado es el Black Panther (Memero-kun:sheep:). En este rol, Black Panther es el Rey/Cacique, líder religioso y comandante en jefe. El título, aunque parece ser hereditario, puede ser impugnado por cualquier ciudadano de Wakanda por el derecho a ser el admin en una ceremonia de combate:fire:.
+
+*Creado por rafaelopz.
